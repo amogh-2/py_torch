@@ -1,0 +1,4 @@
+Supervised: data and outputs both given to train (learns from outputs)
+Unsupervised: only data no outputs given to train (learns solely on data itself)
+Transfer: transfers foundations from the model that has already learned to a new model for headstart
+Reinforcement: training is based on observation of rewards for actions performed

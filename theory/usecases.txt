@@ -1,0 +1,5 @@
+Recommendation system
+Translation
+Speech Recognition
+Computer Vision
+Natural Language Processing (NLP)
