@@ -1,0 +1,16 @@
+Tensor
+In deep learning, a tensor is basically just a multi-dimensional array 
+Tensors can have any number of dimensions (also called ranks).
+Tensors can have any number of dimensions (also called ranks).
+
+Data like images, text, or audio is represented as tensors.
+The output of a neural network, like class labels for classification or continuous values for regression, is also a tensor.
+The parameters that a neural network learns during training, such as weights and biases, are represented as tensors.
+Deep learning algorithms perform various operations on tensors, such as matrix multiplication, addition, element-wise operations, etc.
+Operations like convolutions in CNNs (Convolutional Neural Networks) or dot products in RNNs (Recurrent Neural Networks) are all tensor operations.
+
+
+In summary:
+
+    Tensors store and manipulate data throughout the deep learning pipeline.
+    Everything (data, weights, activations, gradients) is handled in tensor form.

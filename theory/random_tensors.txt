@@ -1,0 +1,4 @@
+Why random tensor?
+Many neural Networks learn by starting with tensors full of random numbers and then adjust to random numbers to better represent the data.
+
+

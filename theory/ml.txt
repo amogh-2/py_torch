@@ -1,0 +1,1 @@
+Machine Learning is turning data into numbers and finding pattern in those numbers.
